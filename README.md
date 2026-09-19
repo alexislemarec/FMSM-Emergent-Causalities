@@ -101,15 +101,15 @@ French and English editions.
 
 ### English
 
-* **FMSM — Emergent Causalities Analysis Protocol — Public Version 1.0**
-* **Emergent Causalities — White Paper**
+* [**FMSM — Emergent Causalities Analysis Protocol — Public Version 1.0**](FMSM%20Protocol%20English.pdf)
+* [**Emergent Causalities — White Paper**](White%20Paper%20Emergent%20Causalities%20EN.pdf)
 
 ### Français
 
-* **FMSM — Protocole d'analyse des causalités émergentes — Version publique 1.0**
-* **Causalités Émergentes — Livre blanc**
+* [**FMSM — Protocole d'analyse des causalités émergentes — Version publique 1.0**](FMSM%20Protocole%20VF.pdf)
+* [**Causalités Émergentes — Livre blanc**](White%20Paper%20CAUSALIT%C3%89S%20%C3%89MERGENTES.pdf)
 
-PDF and Markdown versions of the public protocol are provided in the repository.
+PDF versions of the public protocol and accompanying white paper are provided in both English and French.
 
 ---
 
