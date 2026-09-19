@@ -162,6 +162,23 @@ Independent evaluation, including negative results and criticism, is welcome.
 
 ---
 
+## Exploratory Examples
+
+The repository includes several single-run qualitative examples illustrating model behavior with and without FMSM Public v1.0.
+
+These examples are **not benchmarks, controlled experiments, or evidence of superiority**. They are provided to make observed behavioral differences inspectable and to illustrate both the effects and the limitations of the protocol.
+
+* [**DeVito / Terminator — Counterfactual reasoning**](1. DeVito Terminator _Counterfactual reasoning.pdf) — comparison of FMSM-guided and vanilla analysis on a deliberately unusual counterfactual scenario.
+
+* [**Léa — Human multidomain reasoning**](2. Léa — Human multidomain reasoning.pdf) — comparison across models and conditions on a scenario involving socialization, financial behavior, adaptation, and competing causal explanations.
+
+* [**Sam + Elon — Extreme hypothetical / premise preservation**](3. Sam + Elon _Extreme hypothetical premise preservation.pdf) — stress test of premise preservation and inferential-distance control under an intentionally extreme hypothetical scenario.
+
+The examples intentionally preserve residual errors and overextensions where they occurred. Outputs have not been rewritten to make FMSM appear more successful than the original runs.
+
+
+---
+
 ## Citation
 
 Suggested citation:
